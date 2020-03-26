@@ -10,7 +10,7 @@ const COUNTRIES_URL = config.apiUrl + '/countries'
 const COUNTRY_DEFAULT = {
   name: 'Colombia',
   iso2: 'CO',
-  iso3: 'CO'
+  iso3: 'COL'
 }
 
 
