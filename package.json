@@ -12,13 +12,15 @@
   "author": "John Serrano <jandreys15@gmail.com> (https://twitter.com/jandrey15)",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^8.2.0",
-    "next": "^9.3.1",
-    "node-fetch": "^2.6.0",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "dotenv": "8.2.0",
+    "moment": "2.24.0",
+    "next": "9.3.1",
+    "node-fetch": "2.6.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "world-map-country-shapes": "1.0.0"
   },
   "devDependencies": {
-    "babel-plugin-transform-define": "^2.0.0"
+    "babel-plugin-transform-define": "2.0.0"
   }
 }

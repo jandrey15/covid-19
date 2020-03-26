@@ -3677,6 +3677,11 @@ mkdirp@^0.5.1:
   dependencies:
     minimist "^1.2.5"
 
+moment@^2.24.0:
+  version "2.24.0"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.24.0.tgz#0d055d53f5052aa653c9f6eb68bb5d12bf5c2b5b"
+  integrity sha512-bV7f+6l2QigeBBZSM/6yTNq4P2fNpSWj/0e7jQcy87A8e7o2nAfP/34/2ky5Vw4B9S446EtIhodAzkFCcR4dQg==
+
 move-concurrently@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/move-concurrently/-/move-concurrently-1.0.1.tgz#be2c005fda32e0b29af1f05d7c4b33214c701f92"
@@ -5862,6 +5867,11 @@ worker-rpc@^0.1.0:
   integrity sha512-P1WjMrUB3qgJNI9jfmpZ/htmBEjFh//6l/5y8SD9hg1Ef5zTTVVoRjTrTEzPrNBQvmhMxkoTsjOXN10GWU7aCg==
   dependencies:
     microevent.ts "~0.1.1"
+
+world-map-country-shapes@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/world-map-country-shapes/-/world-map-country-shapes-1.0.0.tgz#d8027885d50dac6b2a76963f60bb1ae20c5639e8"
+  integrity sha512-cw6AoVbJCsAfMsZ+/GMnkyrTTRO+Jg2LbvNA1GdTCjXXD6ULitZinGrcCTv11Z2LNgWaVvF6XU0GWKIF2tJlyA==
 
 wrappy@1:
   version "1.0.2"
